@@ -109,7 +109,7 @@ const Common = [
 	"Secretary Angel",
 	"Oracle Guardian, Red Eye",
 	"Faithful Angel",
-	"Goddess of the Crescent Moon, Tsukuyomi,"
+	"Goddess of the Crescent Moon, Tsukuyomi,",
 	"Battle Sister, Vanilla",
 	"Victory Maker",
 	"Flame Edge Dragon",
